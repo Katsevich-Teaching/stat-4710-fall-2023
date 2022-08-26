@@ -11,7 +11,7 @@ nav_order: 1
 
 Date | Unit | Topic | Before class | In class | Assignments
 :---|:---|:---|:---|:---|:---
-Tue 8/30 | 1. R for Data Mining | Intro to modern data mining | **Section**{: .label .label-purple } ISLR Section 2.1, {: .text .text-purple }[Work through Programming Basics and Data Basics tutorials], Read R4DS Ch. 27, Further reading (optional): R4DS Ch. 6, 10, 17, 19, 20, 21.1, 21.2 | TBD | --  
+Tue 8/30 | 1. R for Data Mining | Intro to modern data mining | **Section**{: .text .text-purple } ISLR Section 2.1, {: .text .text-purple }[Work through Programming Basics and Data Basics tutorials], Read R4DS Ch. 27, Further reading (optional): R4DS Ch. 6, 10, 17, 19, 20, 21.1, 21.2 | TBD | --  
 Thu 9/1 | 1. R for Data Mining | Data visualization | Work through Visualization Basics tutorial, Further reading (optional): R4DS Ch. 3, 28 | TBD | --
 Tue 9/6 | 1. R for Data Mining | Data transformation | Work through Isolating Data tutorialFurther reading (optional): R4DS Ch. 5 | TBD |--
 Thu 9/8 | 1. R for Data Mining | Data wrangling | Work through Tidy Data section ONLY of the Reshape Data tutorialFurther reading (optional): R4DS Ch. 11-15 | TBD |--
