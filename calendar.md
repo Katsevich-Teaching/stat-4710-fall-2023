@@ -1,11 +1,5 @@
 ---
-layout: page
 title: Calendar
-description: Listing of course modules and topics.
+redirect_to: https://canvas.upenn.edu/calendar?include_contexts=course_1667343
+nav_order: 3
 ---
-
-# Calendar
-
-{% for module in site.modules %}
-{{ module }}
-{% endfor %}
