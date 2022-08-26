@@ -1,39 +1,46 @@
 ---
 layout: home
-title: Just the Class
-nav_exclude: true
+title: Schedule
 permalink: index.html
-seo:
-  type: Course
-  name: Just the Class
+nav_order: 1
 ---
 
-# Just the Class
+# STAT 4710 (Fall 2022)
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+## Course Schedule
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
-
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
-
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
-
-## Getting Started
-
-Getting started with Just the Class is simple.
-
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
-
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
-
-### Local development environment
-
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+Date | Unit | Topic | Before class | In class | Assignments
+:---|:---|:---|:---|:---|:---
+Tue 8/30 | 1. R for Data Mining | Intro to modern data mining | Read ISLR Section 2.1, Work through Programming Basics and Data Basics tutorials, Read R4DS Ch. 27, Further reading (optional): R4DS Ch. 6, 10, 17, 19, 20, 21.1, 21.2 | TBD | --  
+Thu 9/1 | 1. R for Data Mining | Data visualization | Work through Visualization Basics tutorial, Further reading (optional): R4DS Ch. 3, 28 | TBD | --
+Tue 9/6 | 1. R for Data Mining | Data transformation | Work through Isolating Data tutorialFurther reading (optional): R4DS Ch. 5 | TBD |--
+Thu 9/8 | 1. R for Data Mining | Data wrangling | Work through Tidy Data section ONLY of the Reshape Data tutorialFurther reading (optional): R4DS Ch. 11-15 | TBD |--
+Tue 9/13 |1. R for Data Mining | Unit 1 Review | Review material, practice on College Majors and Lego Sales activities, try last year's Quiz 1 | TBD |Quiz 1 in class
+Thu 9/15 | 2. Tuning predictive models | Model complexity | Read ISLR pp. 289-292, 294-300 | TBD |Homework 1 due at 12pm
+Tue 9/20 | 2. Tuning predictive models | Bias-variance trade-off | Read ISLR pp. 30-36 |TBD | --
+Thu 9/22 | 2. Tuning predictive models | Cross-validation | Read ISLR Ch. 5.1 | TBD |--
+Tue 9/27 | 2. Tuning predictive models | Classification | Read ISLR pp. 129-132 | TBD |--
+Thu 9/29 | 2. Tuning predictive models | Unit 2 Review | -- | TBD | Quiz 2 in class
+Tue 10/4 | 3. Regression-based methods | Logistic regression | Read ISLR Ch. 4.3 | TBD | Homework 2 due at 12pm
+Thu 10/6 | (Fall break) | (Fall break) | (Fall break) | (Fall break) | (Fall break)
+Tue 10/11 | 3. Regression-based methods | Regression in high dimensions | Read ISLR Ch. 6.4 | TBD |--
+Thu 10/13 | 3. Regression-based methods | Ridge regression | Read ISLR Ch. 6.2.1, 6.2.3 | TBD |--
+Tue 10/18 | 3. Regression-based methods | Lasso regression | Read ISLR Ch. 6.2.2 | TBD |--
+Thu 10/20 | 3. Regression-based methods | Unit 3 Review | -- | TBD |Quiz 3 in class
+Fri 10/21 | -- | Midterm review session 5:15-6:45pm in JMHH 355 | -- | TBD |--
+Sun 10/23 | -- | -- | -- | -- | Take-home midterm exam released at 9am
+Mon 10/24 | -- | -- | -- | -- |Take-home midterm exam due at 9pm
+Tue 10/25 | Discussion of midterm exam | -- | -- | -- | --
+Thu 10/27 | 4. Tree-based methods | Growing decision tree | Read ISLR pp. 327-331, 335-338 | TBD |Homework 3 due at 12pm
+Tue 11/1 | 4. Tree-based methods | Tree pruning and bagging | Read ISLR pp. 331-334, 338-341 | TBD |--
+Thu 11/3 | 4. Tree-based methods | Random forests | Read ISLR pp. 342-345 | TBD |--
+Tue 11/8 | 4. Tree-based methods | Boosting | Read ISLR Ch. 8.2.3 | TBD |--
+Thu 11/10 | 4. Tree-based methods | Unit 4 Review | -- | TBD |Quiz 4 in class
+Tue 11/15 | 5. Deep learning | Deep learning preliminaries | Read ISLR Ch. 10.1, 10.2, 10.6 | TBD |Homework 4 due at 12pm
+Thu 11/17 | 5. Deep learning | Neural networks | Read ISLR Ch. 10.7 | TBD |--
+Tue 11/22 | 5. Deep learning | Deep learning for image processing | Read ISLR Ch. 10.3 | TBD |--
+Thu 11/24 | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break)
+Tue 11/29 | 5. Deep learning | Deep learning for text processing | Read ISLR Ch. 10.4-10.5 | TBD |--
+Thu 12/1 | 5. Deep learning | Unit 5 Review | -- | TBD | Quiz 5 in class 
+Tue 12/6 | Buffer | TBD | TBD | TBD | Homework 5 due at 12pm
+Thu 12/8 | -- | Course wrap-up | -- | --
