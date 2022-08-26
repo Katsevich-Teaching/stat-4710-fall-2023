@@ -12,7 +12,7 @@ nav_order: 1
 Date | Unit | Topic | Before class | In class | Assignments
 :---|:---|:---|:---|:---|:---
 Tue 8/30 | 1. R for Data Mining | Intro to modern data mining | [**Programming Basics**](https://rstudio.cloud/learn/primers/1.2), [**Data Basics**](https://learnr-examples.shinyapps.io/ex-data-basics/), ISLR Ch. 2.1, R4DS Ch. 6, 10, 17, 19, 20, 21.1, 21.2, 27 | [Lecture slides](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/course-materials/unit-1/unit-1-lecture-1-slides.pdf) | --  
-Thu 9/1 | 1. R for Data Mining | Data visualization | [**Visualization Basics**](https://rstudio.cloud/learn/primers/1.1), R4DS Ch. 3, 28 | TBD | --
+Thu 9/1 | 1. R for Data Mining | Data visualization | [**Visualization Basics**](https://rstudio.cloud/learn/primers/1.1), R4DS Ch. 3, 28 | [Programming](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/course-materials/unit-1/data-visualization.pdf) | --
 Tue 9/6 | 1. R for Data Mining | Data transformation | [**Isolating Data**](https://rstudio.cloud/learn/primers/2.2), R4DS Ch. 5 | TBD |--
 Thu 9/8 | 1. R for Data Mining | Data wrangling | [**Reshape Data**](https://rstudio.cloud/learn/primers/4.1) (Tidy Data section ONLY), R4DS Ch. 11-15 | TBD |--
 Tue 9/13 |1. R for Data Mining | Unit 1 Review | For practice: [College Majors](https://minecr.shinyapps.io/dsbox-03-collegemajors/), [Lego Sales](https://minecr.shinyapps.io/dsbox-04-legosales/), [last year's Quiz 1](https://canvas.upenn.edu/courses/1667343/assignments/10342105)  | TBD | Quiz 1 in class
