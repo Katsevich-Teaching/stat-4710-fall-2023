@@ -12,7 +12,7 @@ nav_order: 4
 
 ## Resources
 
-- [Preparing reports](https://stat-9610-fall-2022.github.io/assets/preparing-reports.pdf): How to prepare high-quality reports for STAT 4710 and beyond
+- [Preparing reports](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/preparing-reports.pdf): How to prepare high-quality reports for STAT 4710 and beyond
 - [RStudio cheatsheets](https://www.rstudio.com/resources/cheatsheets/): Quick references for R programming
 
 ## Course-related websites
