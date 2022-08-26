@@ -11,12 +11,12 @@ nav_order: 1
 
 Date | Unit | Topic | Before class | In class | Assignments
 :---|:---|:---|:---|:---|:---
-Tue 8/30 | 1. R for Data Mining | Intro to modern data mining | [**Programming Basics**](https://rstudio.cloud/learn/primers/1.2), [**Data Basics**](https://learnr-examples.shinyapps.io/ex-data-basics/), ISLR Ch. 2.1, R4DS Ch. 27, R4DS Ch. 6, 10, 17, 19, 20, 21.1, 21.2 | TBD | --  
+Tue 8/30 | 1. R for Data Mining | Intro to modern data mining | [**Programming Basics**](https://rstudio.cloud/learn/primers/1.2), [**Data Basics**](https://learnr-examples.shinyapps.io/ex-data-basics/), ISLR Ch. 2.1, R4DS Ch. 6, 10, 17, 19, 20, 21.1, 21.2, 27 | TBD | --  
 Thu 9/1 | 1. R for Data Mining | Data visualization | [**Visualization Basics**](https://rstudio.cloud/learn/primers/1.1), R4DS Ch. 3, 28 | TBD | --
 Tue 9/6 | 1. R for Data Mining | Data transformation | [**Isolating Data**](https://rstudio.cloud/learn/primers/2.2), R4DS Ch. 5 | TBD |--
 Thu 9/8 | 1. R for Data Mining | Data wrangling | [**Reshape Data**](https://rstudio.cloud/learn/primers/4.1) (Tidy Data section ONLY), R4DS Ch. 11-15 | TBD |--
-Tue 9/13 |1. R for Data Mining | Unit 1 Review | Review material, practice on College Majors and Lego Sales activities, try last year's Quiz 1 | TBD |Quiz 1 in class
-Thu 9/15 | 2. Tuning predictive models | Model complexity | ISLR pp. 289-292, 294-300 | TBD |Homework 1 due at 12pm
+Tue 9/13 |1. R for Data Mining | Unit 1 Review | For practice: [College Majors](https://minecr.shinyapps.io/dsbox-03-collegemajors/), [Lego Sales](https://minecr.shinyapps.io/dsbox-04-legosales/), [last year's Quiz 1](https://canvas.upenn.edu/courses/1667343/assignments/10342105)  | TBD | Quiz 1 in class
+Thu 9/15 | 2. Tuning predictive models | Model complexity | ISLR pp. 289-292, 294-300 | TBD | [Homework 1](https://rstudio.cloud/spaces/262876/content/4330682) due at 12pm
 Tue 9/20 | 2. Tuning predictive models | Bias-variance trade-off | ISLR pp. 30-36 |TBD | --
 Thu 9/22 | 2. Tuning predictive models | Cross-validation | ISLR Ch. 5.1 | TBD |--
 Tue 9/27 | 2. Tuning predictive models | Classification | ISLR pp. 129-132 | TBD |--
@@ -31,7 +31,7 @@ Fri 10/21 | -- | Midterm review session 5:15-6:45pm in JMHH 355 | -- | TBD |--
 Sun 10/23 | -- | -- | -- | -- | Take-home midterm exam released at 9am
 Mon 10/24 | -- | -- | -- | -- |Take-home midterm exam due at 9pm
 Tue 10/25 | Discussion of midterm exam | -- | -- | -- | --
-Thu 10/27 | 4. Tree-based methods | Growing decision tree | ISLR pp. 327-331, 335-338 | TBD |Homework 3 due at 12pm
+Thu 10/27 | 4. Tree-based methods | Growing decision tree | ISLR pp. 327-331, 335-338 | TBD | Homework 3 due at 12pm
 Tue 11/1 | 4. Tree-based methods | Tree pruning and bagging | ISLR pp. 331-334, 338-341 | TBD |--
 Thu 11/3 | 4. Tree-based methods | Random forests | ISLR pp. 342-345 | TBD |--
 Tue 11/8 | 4. Tree-based methods | Boosting | Read ISLR Ch. 8.2.3 | TBD |--
