@@ -20,7 +20,7 @@ Thu 9/15 | 2. Tuning predictive models | Model complexity | ISLR pp. 289-292, 29
 Tue 9/20 | 2. Tuning predictive models | Bias-variance trade-off | ISLR pp. 30-36 |[Lecture slides](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/course-materials/unit-2/unit-2-lecture-2-slides.pdf) [Programming](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/course-materials/unit-2/unit-2-lecture-2-programming.pdf) | --
 Thu 9/22 | 2. Tuning predictive models | Cross-validation | ISLR Ch. 5.1 | [Programming](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/course-materials/unit-2/unit-2-lecture-3-programming.pdf) |--
 Tue 9/27 | 2. Tuning predictive models | Classification | ISLR pp. 129-132 | TBD |--
-Thu 9/29 | 2. Tuning predictive models | Unit 2 Review | -- | TBD | Quiz 2 in class
+Thu 9/29 | 2. Tuning predictive models | Unit 2 Review | -- | To prepare: [Last year's Quiz 2](https://canvas.upenn.edu/courses/1667343/assignments/10573266) | Quiz 2 in class
 Tue 10/4 | 3. Regression-based methods | Logistic regression | ISLR Ch. 4.3 | TBD | Homework 2 ([RStudio Cloud](https://rstudio.cloud/spaces/262876/content/4533989), [PDF](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/course-materials/unit-2/homework-2.pdf)) due at 12pm
 Thu 10/6 | (Fall break) | (Fall break) | (Fall break) | (Fall break) | (Fall break)
 Tue 10/11 | 3. Regression-based methods | Regression in high dimensions | ISLR Ch. 6.4 | TBD |--
