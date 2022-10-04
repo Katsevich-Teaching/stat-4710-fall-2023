@@ -44,3 +44,6 @@ Tue 11/29 | 5. Deep learning | Deep learning for text processing | ISLR Ch. 10.4
 Thu 12/1 | 5. Deep learning | Unit 5 Review | -- | TBD | Quiz 5 in class 
 Tue 12/6 | Buffer | TBD | TBD | TBD | Homework 5 due at 12pm
 Thu 12/8 | -- | Course wrap-up | -- | --
+Mon 12/12 | -- | Final exam review session (time and place TBD) | -- | --
+Thu 12/15 | -- | -- | -- | Take-home final exam released at 9am
+Fri 12/16 | -- | -- | -- | Take-home final exam due at 9pm
