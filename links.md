@@ -14,7 +14,7 @@ nav_order: 4
 
 - [Preparing reports](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/preparing-reports.pdf): How to prepare high-quality reports for STAT 4710 and beyond
 - [RStudio cheatsheets](https://www.rstudio.com/resources/cheatsheets/): Quick references for R programming
-- [Office hours appointment requests](https://docs.google.com/forms/d/e/1FAIpQLSdA2MIrG3a1yIIPzWH3rYX4Eyw9gtd7nrUkSzGEQh5Iftwtcg/viewform?usp=sf_link): Request to meet with the instructor or head TA if you can't make their office hours 
+- [Office hours appointment requests](https://docs.google.com/forms/d/e/1FAIpQLSdA2MIrG3a1yIIPzWH3rYX4Eyw9gtd7nrUkSzGEQh5Iftwtcg/viewform?usp=sf_link): Request to meet with the instructor or head TA if you can't make their regular office hours 
 
 ## Course-related websites
 
