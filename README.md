@@ -28,7 +28,7 @@ Thu 10/13 | 3. Regression-based methods | Ridge regression | ISLR Ch. 6.2.1, 6.2
 Tue 10/18 | 3. Regression-based methods | Lasso regression | ISLR Ch. 6.2.2 | [Quiz practice](https://canvas.upenn.edu/courses/1667343/assignments/10607956) |--
 Thu 10/20 | 3. Regression-based methods | Unit 3 Review | To prepare: [Last year's Quiz 3](https://canvas.upenn.edu/courses/1667343/assignments/10608071) | TBD | Quiz 3 in class
 Fri 10/21 | -- | Midterm review session 5:15-6:45pm in JMHH 355 | -- | TBD |--
-Sun 10/23 | -- | -- | To prepare: Practice Midterm Exam 1 ([PDF](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/course-materials/exams/practice-midterm-exam-1.pdf), [RStudio Cloud](https://rstudio.cloud/spaces/262876/content/4726133), [Solutions](https://canvas.upenn.edu/courses/1667343/files/folder/Exam%20Solutions?preview=114833653)) | -- | Take-home midterm exam released at 9am
+Sun 10/23 | -- | -- | To prepare: Practice Midterm Exam 1 ([PDF](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/exams/practice-midterm-exam-1.pdf), [RStudio Cloud](https://rstudio.cloud/spaces/262876/content/4726133), [Solutions](https://canvas.upenn.edu/courses/1667343/files/folder/Exam%20Solutions?preview=114833653)) | -- | Take-home midterm exam released at 9am
 Mon 10/24 | -- | -- | -- | -- |Take-home midterm exam due at 9pm
 Tue 10/25 | Discussion of midterm exam | -- | -- | -- | --
 Thu 10/27 | 4. Tree-based methods | Growing decision trees | ISLR pp. 327-331, 335-338 | TBD | --
