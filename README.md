@@ -30,7 +30,7 @@ Thu 10/20 | 3. Regression-based methods | Unit 3 Review | To prepare: [Last year
 Fri 10/21 | -- | Midterm review session 5:15-6:45pm in JMHH 355 | To prepare: Practice Midterm Exam 1 ([PDF](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/exams/practice-midterm-exam-1.pdf), [RStudio Cloud](https://rstudio.cloud/spaces/262876/content/4726133), [Solutions](https://canvas.upenn.edu/courses/1667343/files/folder/Exam%20Solutions?preview=114833653)), Practice Midterm Exam 2 ([PDF](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/exams/practice-midterm-exam-2.pdf), [RStudio Cloud](https://rstudio.cloud/spaces/262876/content/4732487), [Solutions](https://canvas.upenn.edu/courses/1667343/files/folder/Exam%20Solutions?preview=114856410)) | [Review session recording](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2c878270-a25a-4e32-88dc-af3500f88866) |--
 Sun 10/23 | -- | -- | -- | -- | Take-home midterm exam ([PDF](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/exams/midterm-exam.pdf), [RStudio Cloud](https://rstudio.cloud/spaces/262876/content/4748590)) released at 9am
 Mon 10/24 | -- | -- | -- | -- |Take-home midterm exam due at 9pm
-Tue 10/25 | Discussion of midterm exam | -- | -- | -- | --
+Tue 10/25 | Discussion of Quiz 3 and the midterm exam | -- | -- | -- | --
 Thu 10/27 | 4. Tree-based methods | Growing decision trees | ISLR pp. 327-331, 335-338 | TBD | --
 Sat 10/29 | -- | -- | -- | -- | Homework 3 ([RStudio Cloud](https://rstudio.cloud/spaces/262876/content/4701702), [PDF](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/course-materials/unit-3/homework-3.pdf)) due at 9pm
 Tue 11/1 | 4. Tree-based methods | Tree pruning and bagging | ISLR pp. 331-334, 338-341 | TBD |--
