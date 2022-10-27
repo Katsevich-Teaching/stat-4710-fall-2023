@@ -31,12 +31,12 @@ Fri 10/21 | -- | Midterm review session 5:15-6:45pm in JMHH 355 | To prepare: Pr
 Sun 10/23 | -- | -- | -- | -- | Take-home midterm exam ([PDF](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/exams/midterm-exam.pdf), [RStudio Cloud](https://rstudio.cloud/spaces/262876/content/4748590), [Solutions](https://canvas.upenn.edu/courses/1667343/files/folder/Exam%20Solutions?preview=115333770)) released at 9am
 Mon 10/24 | -- | -- | -- | -- |Take-home midterm exam due at 9pm
 Tue 10/25 | -- | Discussion of Quiz 3 and the midterm exam | -- | [Lecture recording](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c32483bf-8d2a-47cf-b766-af31015e0974) | --
-Thu 10/27 | 4. Tree-based methods | Growing decision trees | ISLR pp. 327-331, 335-338 | [Lecture slides](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/course-materials/unit-4/unit-4-lecture-1-slides.pdf) [Programming](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/course-materials/unit-4/unit-4-lecture-1-programming.pdf) | --
+Thu 10/27 | 4. Tree-based methods | Growing decision trees | ISLR pp. 327-331, 335-338 | [Lecture slides](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/course-materials/unit-4/unit-4-lecture-1-slides.pdf) [Programming](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/course-materials/unit-4/unit-4-lecture-1-programming.pdf) [Quiz practice](https://canvas.upenn.edu/courses/1667343/assignments/10647900)| --
 Sat 10/29 | -- | -- | -- | -- | Homework 3 ([RStudio Cloud](https://rstudio.cloud/spaces/262876/content/4701702), [PDF](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/course-materials/unit-3/homework-3.pdf)) due at 9pm
 Tue 11/1 | 4. Tree-based methods | Tree pruning and bagging | ISLR pp. 331-334, 338-341 | TBD |--
 Thu 11/3 | 4. Tree-based methods | Random forests | ISLR pp. 342-345 | TBD |--
 Tue 11/8 | 4. Tree-based methods | Boosting | Read ISLR Ch. 8.2.3 | TBD |--
-Thu 11/10 | 4. Tree-based methods | Unit 4 Review | -- | TBD |Quiz 4 in class
+Thu 11/10 | 4. Tree-based methods | Unit 4 Review | To prepare: [Last year's Quiz 4](https://canvas.upenn.edu/courses/1667343/assignments/10608073) | TBD | Quiz 4 in class
 Tue 11/15 | 5. Deep learning | Deep learning preliminaries | ISLR Ch. 10.1, 10.2, 10.6 | TBD |Homework 4 due at 9pm
 Thu 11/17 | 5. Deep learning | Neural networks | ISLR Ch. 10.7 | TBD |--
 Tue 11/22 | 5. Deep learning | Deep learning for image processing | ISLR Ch. 10.3 | TBD |--
