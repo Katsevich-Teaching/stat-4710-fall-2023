@@ -37,7 +37,7 @@ Tue 11/1 | 4. Tree-based methods | Tree pruning and bagging | ISLR pp. 331-334, 
 Thu 11/3 | 4. Tree-based methods | Random forests | ISLR pp. 342-345 | [Lecture slides](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/course-materials/unit-4/unit-4-lecture-3-slides.pdf) [Programming](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/course-materials/unit-4/unit-4-lecture-3-programming.pdf) [Quiz Practice](https://canvas.upenn.edu/courses/1667343/assignments/10660548) [Lecture recording](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=699c2eb6-236a-47ee-944e-af3c0138d425) |--
 Tue 11/8 | 4. Tree-based methods | Boosting | Read ISLR Ch. 8.2.3 | [Quiz Practice](https://canvas.upenn.edu/courses/1667343/assignments/10647898) |--
 Thu 11/10 | 4. Tree-based methods | Unit 4 Review | To prepare: [Last year's Quiz 4](https://canvas.upenn.edu/courses/1667343/assignments/10608073) | TBD | Quiz 4 in class
-Tue 11/15 | 5. Deep learning | Deep learning preliminaries | ISLR Ch. 10.1, 10.2, 10.6 | TBD |Homework 4 due at 9pm
+Tue 11/15 | 5. Deep learning | Deep learning preliminaries | ISLR Ch. 10.1, 10.2, 10.6 | TBD |Homework 4 ([RStudio Cloud](https://rstudio.cloud/spaces/262876/content/4854122) [PDF](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/course-materials/unit-4/homework-4.pdf)) due at 9pm
 Thu 11/17 | 5. Deep learning | Neural networks | ISLR Ch. 10.7 | TBD |--
 Tue 11/22 | 5. Deep learning | Deep learning for image processing | ISLR Ch. 10.3 | TBD |--
 Thu 11/24 | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break)
