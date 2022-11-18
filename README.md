@@ -42,8 +42,8 @@ Thu 11/17 | 5. Deep learning | Neural networks | ISLR Ch. 10.7 | [Lecture slides
 Tue 11/22 | 5. Deep learning | Deep learning for image processing | ISLR Ch. 10.3 | TBD |--
 Thu 11/24 | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break)
 Tue 11/29 | 5. Deep learning | Deep learning for text processing | ISLR Ch. 10.4-10.5 | TBD |--
-Thu 12/1 | 5. Deep learning | Unit 5 Review | -- | TBD | Quiz 5 in class 
-Tue 12/6 | Buffer | TBD | TBD | TBD | Homework 5 due at 9pm
+Thu 12/1 | 5. Deep learning | Unit 5 Review | To prepare: [Last year's Quiz 5](https://canvas.upenn.edu/courses/1667343/assignments/10608072/) | TBD | Quiz 5 in class 
+Tue 12/6 | Buffer | TBD | TBD | TBD | Homework 5 ([PDF](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/course-materials/unit-5/homework-5.pdf), [RStudio Cloud](https://posit.cloud/spaces/262876/content/4987923)) due at 9pm
 Thu 12/8 | -- | Course wrap-up | -- | --
 Mon 12/12 | -- | Final exam review session 5:15pm - 6:45pm in JMHH 245 | -- | --
 Thu 12/15 | -- | -- | -- | Take-home final exam released at 9am
