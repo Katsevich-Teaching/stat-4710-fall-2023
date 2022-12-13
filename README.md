@@ -45,6 +45,6 @@ Tue 11/29 | 5. Deep learning | Deep learning for text processing | ISLR Ch. 10.4
 Thu 12/1 | 5. Deep learning | Unit 5 Review | To prepare: [Last year's Quiz 5](https://canvas.upenn.edu/courses/1667343/assignments/10608072/) | [Lecture recording](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0dba4411-03cd-4496-ba88-af5b014518c8) | [Quiz 5](https://canvas.upenn.edu/courses/1667343/assignments/10231096) in class 
 Tue 12/6 | No class | -- | -- | -- | Homework 5 ([PDF](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/course-materials/unit-5/homework-5.pdf), [RStudio Cloud](https://posit.cloud/spaces/262876/content/4987923)) due at 9pm
 Thu 12/8 | -- | Course wrap-up | -- | [Lecture slides](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/course-materials/course-wrapup.pdf) [Lecture recording](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=599bd4cf-3b29-43d0-8170-af5b0174a7a7) | -- 
-Mon 12/12 | -- | Final exam review session 5:15pm - 6:45pm in JMHH 245 | -- | --
+Mon 12/12 | -- | Final exam review session 5:15pm - 6:45pm in JMHH 245 | -- | [Review recording](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5164b2d1-fbdc-4897-b1a8-af690110cee7)
 Thu 12/15 | -- | -- | -- | Take-home final exam released at 9am
 Fri 12/16 | -- | -- | -- | Take-home final exam due at 9pm
