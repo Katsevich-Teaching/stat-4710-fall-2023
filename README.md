@@ -46,5 +46,5 @@ Thu 12/1 | 5. Deep learning | Unit 5 Review | To prepare: [Last year's Quiz 5](h
 Tue 12/6 | No class | -- | -- | -- | Homework 5 ([PDF](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/course-materials/unit-5/homework-5.pdf), [RStudio Cloud](https://posit.cloud/spaces/262876/content/4987923)) due at 9pm
 Thu 12/8 | -- | Course wrap-up | [Lecture slides](https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/course-materials/course-wrapup.pdf) | --
 Mon 12/12 | -- | Final exam review session 5:15pm - 6:45pm in JMHH 245 | -- | --
-Thu 12/15 | -- | -- | -- | Take-home final exam released at 9am
+Thu 12/15 | -- | -- | -- | Take-home final exam ([PDF]((https://katsevich-teaching.github.io/stat-4710-fall-2022/assets/exams/final-exam.pdf)), [RStudio Cloud](https://posit.cloud/spaces/262876/content/5136207)) released at 9am
 Fri 12/16 | -- | -- | -- | Take-home final exam due at 9pm
