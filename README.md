@@ -4,35 +4,35 @@
 
 Date | Unit | Topic | Before class | In class | Assignments
 :---|:---|:---|:---|:---|:---
-Tue 8/29 | 1. R for Data Mining | Intro to modern data mining | [Programming Basics, Data Basics], ISLR Ch. 2.1, R4DS Ch. 6, 10, 17, 19, 20, 21.1, 21.2, 27 |  | --
-Thu 8/31 | 1. R for Data Mining | Data visualization | [Visualization Basics], R4DS Ch. 3, 28 |  | --
-Tue 9/5 | 1. R for Data Mining | Data transformation | [Isolating Data], R4DS Ch. 5 |  | --
-Thu 9/7 | 1. R for Data Mining | Data wrangling | [Reshape Data] (Tidy Data section ONLY), R4DS Ch. 11-15 |  | --
-Tue 9/12 | 1. R for Data Mining | Unit 1 Review | For practice: [College Majors, Lego Sales, last year's Quiz 1] |  | Quiz 1 in class
+Tue 8/29 | 1. R for Data Mining | Intro to modern data mining | [Programming Basics](https://posit.cloud/learn/primers/1.2), [Data Basics](https://learnr-examples.shinyapps.io/ex-data-basics/), ISLR Ch. 2.1, R4DS Ch. 6, 10, 17, 19, 20, 21.1, 21.2, 27 |  | --
+Thu 8/31 | 1. R for Data Mining | Data visualization | [Visualization Basics](https://posit.cloud/learn/primers/1.1), R4DS Ch. 3, 28 |  | --
+Tue 9/5 | 1. R for Data Mining | Data transformation | [Isolating Data](https://posit.cloud/learn/primers/2.2), R4DS Ch. 5 |  | --
+Thu 9/7 | 1. R for Data Mining | Data wrangling | [Reshape Data](https://posit.cloud/learn/primers/4.1) (Tidy Data section ONLY), R4DS Ch. 11-15 |  | --
+Tue 9/12 | 1. R for Data Mining | Unit 1 Review | For practice: [College Majors](https://minecr.shinyapps.io/dsbox-03-collegemajors/), [Lego Sales](https://minecr.shinyapps.io/dsbox-04-legosales/), [last year's Quiz 1](https://canvas.upenn.edu/courses/1741618/assignments/11508129) |  | Quiz 1 in class
 Thu 9/14 | 2. Tuning predictive models | Model complexity | ISLR pp. 289-292, 294-300 |  | Homework 1 due at 12pm
 Tue 9/19 | 2. Tuning predictive models | Bias-variance trade-off | ISLR pp. 30-36 |  | --
 Thu 9/21 | 2. Tuning predictive models | Cross-validation | ISLR Ch. 5.1 |  | --
 Tue 9/26 | 2. Tuning predictive models | Classification | ISLR pp. 129-132 |  | --
-Thu 9/28 | 2. Tuning predictive models | Unit 2 Review | To prepare: [Last year's Quiz 2] |  | Quiz 2 in class
+Thu 9/28 | 2. Tuning predictive models | Unit 2 Review | To prepare: [Last year's Quiz 2](https://canvas.upenn.edu/courses/1741618/assignments/11508131) |  | Quiz 2 in class
 Tue 10/3 | 3. Regression-based methods | Logistic regression | ISLR Ch. 4.3 |  | Homework 2 due at 12pm
 Thu 10/5 | 3. Regression-based methods | Regression in high dimensions | ISLR Ch. 6.4 |  | --
 Tue 10/10 | 3. Regression-based methods | Ridge regression | ISLR Ch. 6.2.1, 6.2.3 |  | --
 Thu 10/12 | (Fall break) | (Fall break) | (Fall break) | (Fall break) | (Fall break)
 Tue 10/17 | 3. Regression-based methods | Lasso regression | ISLR Ch. 6.2.2 |  | --
-Thu 10/19 | 3. Regression-based methods | Unit 3 Review | To prepare: [Last year's Quiz 3] |  | Quiz 3 in class
+Thu 10/19 | 3. Regression-based methods | Unit 3 Review | To prepare: [Last year's Quiz 3](https://canvas.upenn.edu/courses/1741618/assignments/11508134) |  | Quiz 3 in class
 Fri 10/20 | -- | Exam 1 review session (time and location TBD) | -- | -- | --
 Tue 10/24 | -- | Exam 1 | To prepare: Quizzes 1-3 from this year and last | Exam 1 | Exam 1 in class
 Thu 10/26 | 4. Tree-based methods | Growing decision trees | ISLR pp. 327-331, 335-338 |  | Homework 3 due at 12pm
 Tue 10/31 | 4. Tree-based methods | Tree pruning and bagging | ISLR pp. 331-334, 338-341 |  | --
 Thu 11/2 | 4. Tree-based methods | Random forests | ISLR pp. 342-345 |  | --
 Tue 11/7 | 4. Tree-based methods | Boosting | Read ISLR Ch. 8.2.3 |  | --
-Thu 11/9 | 4. Tree-based methods | Unit 4 Review | To prepare: [Last year's Quiz 4] |  | Quiz 4 in class
+Thu 11/9 | 4. Tree-based methods | Unit 4 Review | To prepare: [Last year's Quiz 4](https://canvas.upenn.edu/courses/1741618/assignments/11508135) |  | Quiz 4 in class
 Tue 11/14 | 5. Deep learning | Deep learning preliminaries | ISLR Ch. 10.1, 10.2, 10.6 |  | Homework 4 due at 12pm
 Thu 11/16 | 5. Deep learning | Neural networks | ISLR Ch. 10.7 |  | --
 Tue 11/21 | 5. Deep learning | Deep learning for image processing | ISLR Ch. 10.3 |  | --
 Thu 11/23 | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break)
 Tue 11/28 | 5. Deep learning | Deep learning for text processing | ISLR Ch. 10.4-10.5 |  | --
-Thu 11/30 | 5. Deep learning | Unit 5 Review | To prepare: [Last year's Quiz 5] |  | Quiz 5 in class 
+Thu 11/30 | 5. Deep learning | Unit 5 Review | To prepare: [Last year's Quiz 5](https://canvas.upenn.edu/courses/1741618/assignments/11508137) |  | Quiz 5 in class 
 Mon 12/4 | -- | Exam 2 review session (time and location TBD) | -- | -- | --
 Tue 12/5 | -- | Course wrap-up | -- | Course wrap-up | Homework 5 due at 12pm
 Thu 12/7 | -- | Exam 2 | To prepare: All quizzes from this year and last | Exam 2 | Exam 2 in class
