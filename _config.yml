@@ -17,7 +17,7 @@ title: STAT 4710
 tagline: Modern data mining
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Eugene Katsevich
-baseurl: '/stat-4710-fall-2022' # the subpath of your site, e.g. /blog
+baseurl: '/stat-4710-fall-2023' # the subpath of your site, e.g. /blog
 url: 'https://katsevich-teaching.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
