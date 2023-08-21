@@ -1,3 +1,10 @@
+---
+layout: home
+title: Schedule
+permalink: index.html
+nav_order: 1
+---
+
 # STAT 4710 (Fall 2023)
 
 ## Course Schedule
