@@ -11,10 +11,10 @@ nav_order: 1
 
 Date | Unit | Topic | Before class | In class | Assignments
 :---|:---|:---|:---|:---|:---
-Tue 8/29 | 1. R for Data Mining | Intro to modern data mining | [Programming Basics](https://posit.cloud/learn/primers/1.2), [Data Basics](https://learnr-examples.shinyapps.io/ex-data-basics/), ISLR Ch. 2.1, R4DS Ch. 6, 10, 17, 19, 20, 21.1, 21.2, 27 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508475)
-Thu 8/31 | 1. R for Data Mining | Data visualization | [Visualization Basics](https://posit.cloud/learn/primers/1.1), R4DS Ch. 3, 28 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508491)
-Tue 9/5 | 1. R for Data Mining | Data transformation | [Isolating Data](https://posit.cloud/learn/primers/2.2), R4DS Ch. 5 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508492)
-Thu 9/7 | 1. R for Data Mining | Data wrangling | [Reshape Data](https://posit.cloud/learn/primers/4.1) (Tidy Data section ONLY), R4DS Ch. 11-15 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508493)
+Tue 8/29 | 1. R for Data Mining | Intro to modern data mining | [Programming Basics](https://posit.cloud/learn/primers/1.2), [Data Basics](https://learnr-examples.shinyapps.io/ex-data-basics/), ISLR Ch. 2.1, R4DS Ch. 1.1, 3, 5, 7, 9, 28.1, 28.2, 28.3, 28.5, 29 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508475)
+Thu 8/31 | 1. R for Data Mining | Data visualization | [Visualization Basics](https://posit.cloud/learn/primers/1.1), R4DS Ch. 2, 10, 11, 12 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508491)
+Tue 9/5 | 1. R for Data Mining | Data transformation | [Isolating Data](https://posit.cloud/learn/primers/2.2), R4DS Ch. 4, 13, 14, 15, 17 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508492)
+Thu 9/7 | 1. R for Data Mining | Data wrangling | [Reshape Data](https://posit.cloud/learn/primers/4.1) (Tidy Data section ONLY), R4DS Ch. 6, 8, 18-20, 21 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508493)
 Tue 9/12 | 1. R for Data Mining | Unit 1 Review | To prepare: Review quiz practice, [College Majors](https://minecr.shinyapps.io/dsbox-03-collegemajors/), [Lego Sales](https://minecr.shinyapps.io/dsbox-04-legosales/), [last year's Quiz 1](https://canvas.upenn.edu/courses/1741618/assignments/11508129) |  | Quiz 1 in class
 Thu 9/14 | 2. Tuning predictive models | Model complexity | ISLR pp. 289-292, 294-300 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508476); Homework 1 due at 12pm
 Tue 9/19 | 2. Tuning predictive models | Bias-variance trade-off | ISLR pp. 30-36 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508494)
