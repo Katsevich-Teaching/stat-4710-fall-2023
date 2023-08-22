@@ -17,6 +17,13 @@ nav_order: 8
 
 <details>
   <summary> 
+  How do I get the programming exercises and homeworks onto my computer?
+  </summary>
+  <p>Find the corresponding project on <a href="https://posit.cloud/spaces/402684">Posit Cloud</a> and click the download icon to the right of the project name. Move the downloaded folder to a sensible place on your computer. Then, open RStudio and set your working directory to the location of that folder.</p>
+</details>
+
+<details>
+  <summary> 
   I installed RStudio but do not see an option to activate GitHub Copilot.
   </summary>
   <p>You probably installed the <a href="https://posit.co/products/open-source/rstudio/">released version of RStudio</a>. To get GitHub Copilot, you need to install the <a href="https://dailies.rstudio.com/">latest development version of RStudio</a>.</p>
