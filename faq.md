@@ -8,7 +8,7 @@ nav_order: 8
 
 ## Homework and Programming
 
-<details>
+<details markdown="block">
     <summary> **May I use my own computer rather than Posit Cloud for programming?** </summary>
 Yes, you may use your own computer. In fact, if you want to try out GitHub Copilot (see [instructor statement on AI](https://katsevich-teaching.github.io/stat-4710-fall-2023/resources/ai/)), then you will *need* to use your own computer. However, you will be responsible for installing R and RStudio on your computer, as well as installing all of the R packages necessary to complete the homework. Due to limited teaching staff bandwidth, we will not be able to assist you with this process. However, Google and ChatGPT are great resources.
 </details>
