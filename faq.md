@@ -15,7 +15,7 @@ nav_order: 8
 Yes, you may use your own computer. In fact, if you want to try out GitHub Copilot (see [instructor statement on AI](https://katsevich-teaching.github.io/stat-4710-fall-2023/resources/ai/)), then you will *need* to use your own computer. However, you will be responsible for installing R and RStudio on your computer, as well as installing all of the R packages necessary to complete the homework. Due to limited teaching staff bandwidth, we will not be able to assist you with this process. However, Google and ChatGPT are great resources.
 </details>
 
-<details markdown="block">
+<details>
     <summary> 
     I installed RStudio but do not see an option to activate GitHub Copilot.
     </summary>
