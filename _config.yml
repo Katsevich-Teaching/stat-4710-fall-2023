@@ -23,7 +23,7 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc1
-color_scheme: light
+color_scheme: wider
 search_enabled: false
 heading_anchors: true
 permalink: pretty
