@@ -15,23 +15,23 @@ nav_order: 8
 Yes, you may use your own computer. In fact, if you want to try out GitHub Copilot (see [instructor statement on AI](https://katsevich-teaching.github.io/stat-4710-fall-2023/resources/ai/)), then you will *need* to use your own computer. However, you will be responsible for installing R and RStudio on your computer, as well as installing all of the R packages necessary to complete the homework. Due to limited teaching staff bandwidth, we will not be able to assist you with this process. However, Google and ChatGPT are great resources.
 </details>
 
-<details>
-    <summary> **I installed RStudio but do not see an option to activate GitHub Copilot.** </summary>
+<details markdown="block">
+    <summary> I installed RStudio but do not see an option to activate GitHub Copilot. </summary>
 You probably installed the [released version of RStudio](https://posit.co/products/open-source/rstudio/). To get GitHub Copilot, you need to install the [latest development version of RStudio](https://dailies.rstudio.com/).
 </details>
 
-<details>
-    <summary> **May I use Python instead of R?**</summary>
+<details markdown="block">
+    <summary> May I use Python instead of R?</summary>
 No, you must use R for this course.
 </details>
 
-<details>
-    <summary> **My code is giving me an error message. What should I do?**</summary>
+<details markdown="block">
+    <summary> My code is giving me an error message. What should I do?</summary>
 Read the error message carefully. Sometimes, the message will suggest a solution. If not, try Googling the error message. If this does not help, try asking ChatGPT. If you still need help, either post on [Ed Discussion](https://edstem.org/us/courses/44045/discussion/) or come to office hours.
 </details>
 
-<details>
-    <summary> **My R Markdown file is not knitting properly. What should I do?**</summary>
+<details markdown="block">
+    <summary> My R Markdown file is not knitting properly. What should I do?</summary>
   
 - Avoid using underscores or other special characters in chunk headers or figure/table captions.
 - You might not have loaded all necessary R packages.
@@ -40,57 +40,57 @@ Read the error message carefully. Sometimes, the message will suggest a solution
 - If you are stuck, post on [Ed Discussion](https://edstem.org/us/courses/44045/discussion/) or come to office hours and the teaching staff will assist you.
 </details>
 
-<details>
-    <summary> **May I use my favorite AI tool on my homework?**</summary>
+<details markdown="block">
+    <summary> May I use my favorite AI tool on my homework?</summary>
 Yes, you may. Please see the [Syllabus](https://apps.wharton.upenn.edu/syllabi/202330/STAT4710401/) and the [instructor statement on AI](https://katsevich-teaching.github.io/stat-4710-fall-2023/resources/ai/) for more information.
 </details>
 
 ## Quizzes and Exams
 
-<details>
-    <summary> **What is the best way to prepare for quizzes?**</summary>
+<details markdown="block">
+    <summary> What is the best way to prepare for quizzes?</summary>
 The best way to prepare for quizzes is to work through the quiz practice questions and last year's quizzes, all available from the [main course webpage](https://katsevich-teaching.github.io/stat-4710-fall-2023/index.html) or [Canvas](https://canvas.upenn.edu/courses/1741618). Furthermore, students should have a strong conceptual understanding of all material from lectures. Students are encouraged to come to office hours to verify and solidify their understanding of the material.
 </details>
 
-<details>
-    <summary> **How many questions will be on each quiz?**</summary>
+<details markdown="block">
+    <summary> How many questions will be on each quiz?</summary>
 Quizzes will typically have ten questions each.
 </details>
 
-<details>
-    <summary> **What is the best way to prepare for exams?**</summary>
+<details markdown="block">
+    <summary> What is the best way to prepare for exams?</summary>
 The best way to prepare for exams is the same as the best way to prepare for quizzes.
 </details>
 
-<details>
-    <summary> **How many questions will be on each exam?**</summary>
+<details markdown="block">
+    <summary> How many questions will be on each exam?</summary>
 This is not decided yet, but there will likely be in the range of 20-30 questions per exam.
 </details>
 
-<details>
-    <summary> **Can I have a practice exam and/or previous years' exams?**</summary>
+<details markdown="block">
+    <summary> Can I have a practice exam and/or previous years' exams?</summary>
 This is the first year that exams have this format, so there are no exams from previous years. Due to the limited time of the teaching staff, we are unable to write a practice exam for you. However, the exam questions will be of a similar style to quiz questions, so going through the quiz practice questions and the quiz questions from this year and last will be a good way to prepare for exams.
 </details>
 
 ## Grading and course policies
 
-<details>
-    <summary> **I will not be able to attend a given quiz or exam. May I have a makeup?**</summary>
+<details markdown="block">
+    <summary> I will not be able to attend a given quiz or exam. May I have a makeup?</summary>
 We do not offer quiz or exam makeups. However, each student's lowest quiz grade will be dropped. Furthermore, each student may miss up to one quiz if the instructor approves the reason for the absence. Please see the [Syllabus](https://apps.wharton.upenn.edu/syllabi/202330/STAT4710401/) section "Policies concerning quizzes and exams" for more information.
 </details>
 
-<details>
-    <summary> **Can you drop my lowest quiz grade?**</summary>
+<details markdown="block">
+    <summary> Can you drop my lowest quiz grade?</summary>
 Yes, your lowest quiz grade will automatically be dropped. Please see the [Syllabus](https://apps.wharton.upenn.edu/syllabi/202330/STAT4710401/) for more information.
 </details>
 
-<details>
-    <summary> **I submitted my homework three minutes late due a computer crash or knitting error. Could you please waive the late penalty?**</summary>
+<details markdown="block">
+    <summary> I submitted my homework three minutes late due a computer crash or knitting error. Could you please waive the late penalty?</summary>
 Your three free late days are intended to offset such circumstances. Once you use these free late days, each day late will come with a 10-point late penalty. Please see the [Syllabus](https://apps.wharton.upenn.edu/syllabi/202330/STAT4710401/) for more details on the late policy.
 </details>
 
-<details>
-    <summary> **I joined the class late. Could I be excused from the first quiz and/or homework?**</summary>
+<details markdown="block">
+    <summary> I joined the class late. Could I be excused from the first quiz and/or homework?</summary>
 Students joining the class late are responsible for catching up. For this reason, no extra accommodations will be provided. However, you do have a total of three free late days for submitting homework and your lowest quiz score will be dropped.  
 </details>
 
