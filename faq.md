@@ -19,6 +19,7 @@ Yes, you may use your own computer. In fact, if you want to try out GitHub Copil
     <summary> 
     I installed RStudio but do not see an option to activate GitHub Copilot.
     </summary>
+
 You probably installed the [released version of RStudio](https://posit.co/products/open-source/rstudio/). To get GitHub Copilot, you need to install the [latest development version of RStudio](https://dailies.rstudio.com/).
 </details>
 
@@ -26,6 +27,7 @@ You probably installed the [released version of RStudio](https://posit.co/produc
     <summary> 
     May I use Python instead of R?
     </summary>
+
 No, you must use R for this course.
 </details>
 
@@ -33,6 +35,7 @@ No, you must use R for this course.
     <summary> 
     My code is giving me an error message. What should I do?
     </summary>
+
 Read the error message carefully. Sometimes, the message will suggest a solution. If not, try Googling the error message. If this does not help, try asking ChatGPT. If you still need help, either post on [Ed Discussion](https://edstem.org/us/courses/44045/discussion/) or come to office hours.
 </details>
 
