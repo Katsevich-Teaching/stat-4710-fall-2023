@@ -14,6 +14,13 @@ nav_order: 9
 {{ staffer }}
 {% endfor %}
 
+## Head TA
+
+{% assign head_tas = site.staffers | where: 'role', 'Head TA' %}
+{% for staffer in head_tas %}
+{{ staffer }}
+{% endfor %}
+
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}

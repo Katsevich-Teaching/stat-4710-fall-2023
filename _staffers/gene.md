@@ -6,5 +6,3 @@ photo: Eugene_Katsevich.jpg
 office-hours: Tue 1:15-2:45pm in ARB 311
 info: Assistant Professor, Dept. of Statistics and Data Science
 ---
-
-
