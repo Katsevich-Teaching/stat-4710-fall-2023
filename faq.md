@@ -8,7 +8,7 @@ nav_order: 8
 
 ## Homework and Programming
 
-<details markdown="block">
+<details>
   <summary> 
   May I use my own computer rather than Posit Cloud for programming?
   </summary>
@@ -19,11 +19,10 @@ Yes, you may use your own computer. In fact, if you want to try out GitHub Copil
     <summary> 
     I installed RStudio but do not see an option to activate GitHub Copilot.
     </summary>
-
-You probably installed the [released version of RStudio](https://posit.co/products/open-source/rstudio/). To get GitHub Copilot, you need to install the [latest development version of RStudio](https://dailies.rstudio.com/).
+You probably installed the <a href="https://posit.co/products/open-source/rstudio/">released version of RStudio</a>. To get GitHub Copilot, you need to install the <a href="https://dailies.rstudio.com/">latest development version of RStudio.</a>.
 </details>
 
-<details markdown="block">
+<details>
     <summary> 
     May I use Python instead of R?
     </summary>
@@ -31,7 +30,7 @@ You probably installed the [released version of RStudio](https://posit.co/produc
 No, you must use R for this course.
 </details>
 
-<details markdown="block">
+<details>
     <summary> 
     My code is giving me an error message. What should I do?
     </summary>
@@ -39,7 +38,7 @@ No, you must use R for this course.
 Read the error message carefully. Sometimes, the message will suggest a solution. If not, try Googling the error message. If this does not help, try asking ChatGPT. If you still need help, either post on [Ed Discussion](https://edstem.org/us/courses/44045/discussion/) or come to office hours.
 </details>
 
-<details markdown="block">
+<details>
     <summary> 
     My R Markdown file is not knitting properly. What should I do?
     </summary>
@@ -51,7 +50,7 @@ Read the error message carefully. Sometimes, the message will suggest a solution
 - If you are stuck, post on [Ed Discussion](https://edstem.org/us/courses/44045/discussion/) or come to office hours and the teaching staff will assist you.
 </details>
 
-<details markdown="block">
+<details>
     <summary> 
     May I use my favorite AI tool on my homework?
     </summary>
@@ -60,35 +59,35 @@ Yes, you may. Please see the [Syllabus](https://apps.wharton.upenn.edu/syllabi/2
 
 ## Quizzes and Exams
 
-<details markdown="block">
+<details>
     <summary> 
     What is the best way to prepare for quizzes?
     </summary>
 The best way to prepare for quizzes is to work through the quiz practice questions and last year's quizzes, all available from the [main course webpage](https://katsevich-teaching.github.io/stat-4710-fall-2023/index.html) or [Canvas](https://canvas.upenn.edu/courses/1741618). Furthermore, students should have a strong conceptual understanding of all material from lectures. Students are encouraged to come to office hours to verify and solidify their understanding of the material.
 </details>
 
-<details markdown="block">
+<details>
     <summary> 
     How many questions will be on each quiz?
     </summary>
 Quizzes will typically have ten questions each.
 </details>
 
-<details markdown="block">
+<details>
     <summary> 
     What is the best way to prepare for exams?
     </summary>
 The best way to prepare for exams is the same as the best way to prepare for quizzes.
 </details>
 
-<details markdown="block">
+<details>
     <summary>
     How many questions will be on each exam?
     </summary>
 This is not decided yet, but there will likely be in the range of 20-30 questions per exam.
 </details>
 
-<details markdown="block">
+<details>
     <summary>
     May I have a practice exam and/or previous years' exams?
     </summary>
@@ -97,28 +96,28 @@ This is the first year that exams have this format, so there are no exams from p
 
 ## Grading and course policies
 
-<details markdown="block">
+<details>
     <summary> 
     I will not be able to attend a given quiz or exam. May I have a makeup?
     </summary>
 We do not offer quiz or exam makeups. However, each student's lowest quiz grade will be dropped. Furthermore, each student may miss up to one quiz if the instructor approves the reason for the absence. Please see the [Syllabus](https://apps.wharton.upenn.edu/syllabi/202330/STAT4710401/) section "Policies concerning quizzes and exams" for more information.
 </details>
 
-<details markdown="block">
+<details>
     <summary> 
     Could you drop my lowest quiz grade?
     </summary>
 Yes, your lowest quiz grade will automatically be dropped. Please see the [Syllabus](https://apps.wharton.upenn.edu/syllabi/202330/STAT4710401/) for more information.
 </details>
 
-<details markdown="block">
+<details>
     <summary> 
     I submitted my homework three minutes late due a computer crash or knitting error. Could you please waive the late penalty?
     </summary>
 Your three free late days are intended to offset such circumstances. Once you use these free late days, each day late will come with a 10-point late penalty. Please see the [Syllabus](https://apps.wharton.upenn.edu/syllabi/202330/STAT4710401/) for more details on the late policy.
 </details>
 
-<details markdown="block">
+<details>
     <summary> 
     I joined the class late. May I be excused from the first quiz and/or homework?
     </summary>
