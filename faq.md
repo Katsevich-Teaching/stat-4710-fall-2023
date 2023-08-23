@@ -10,6 +10,13 @@ nav_order: 8
 
 <details>
   <summary> 
+  What is Posit Cloud?
+  </summary>
+  <p>Posit Cloud is a full R programming environment (namely, RStudio) that you can access from your web browser, requiring no software or package installation on your part. All of the programming activities and homework assignments, as well as any auxiliary data files, will be distributed via Posit Cloud.</p>
+</details>
+
+<details>
+  <summary> 
   May I use my own computer rather than Posit Cloud for programming?
   </summary>
   <p>Yes, you may use your own computer. In fact, if you want to try out GitHub Copilot (see <a href="https://katsevich-teaching.github.io/stat-4710-fall-2023/resources/ai/">instructor statement on AI</a>), then you will <em>need</em> to use your own computer. However, you will be responsible for installing R and RStudio on your computer, as well as installing all of the R packages necessary to complete the homework. Due to limited teaching staff bandwidth, we will not be able to assist you with this process. However, Google and ChatGPT are great resources.</p>
@@ -17,14 +24,14 @@ nav_order: 8
 
 <details>
   <summary> 
-  How do I get the programming exercises and homeworks onto my computer?
+  How do I get the programming exercises and homeworks onto my computer? (Only relevant for students who want to use their own computers rather than Posit Cloud.)
   </summary>
   <p>Find the corresponding project on <a href="https://posit.cloud/spaces/402684">Posit Cloud</a> and click the download icon to the right of the project name. Move the downloaded folder to a sensible place on your computer. Then, open RStudio and set your working directory to the location of that folder.</p>
 </details>
 
 <details>
   <summary> 
-  I installed RStudio but do not see an option to activate GitHub Copilot.
+  I installed RStudio but do not see an option to activate GitHub Copilot. (Only relevant for students who want to use their own computers rather than Posit Cloud.)
   </summary>
   <p>You probably installed the <a href="https://posit.co/products/open-source/rstudio/">released version of RStudio</a>. To get GitHub Copilot, you need to install the <a href="https://dailies.rstudio.com/">latest development version of RStudio</a>.</p>
 </details>
