@@ -17,6 +17,13 @@ nav_order: 8
 
 <details>
   <summary> 
+  How do I get access to Posit Cloud?
+  </summary>
+  <p>Sign up for a free Posit Cloud account <a href="https://posit.cloud/plans/free">here</a>, and then join the STAT 4710 workspace by clicking the link in the fourth bullet point of <a href="https://edstem.org/us/courses/44045/discussion/3341320">this Ed Discussion announcement</a>.</p>
+</details>
+
+<details>
+  <summary> 
   May I use my own computer rather than Posit Cloud for programming?
   </summary>
   <p>Yes, you may use your own computer. In fact, if you want to try out GitHub Copilot (see <a href="https://katsevich-teaching.github.io/stat-4710-fall-2023/resources/ai/">instructor statement on AI</a>), then you will <em>need</em> to use your own computer. However, you will be responsible for installing R and RStudio on your computer, as well as installing all of the R packages necessary to complete the homework. Due to limited teaching staff bandwidth, we will not be able to assist you with this process. However, Google and ChatGPT are great resources.</p>
