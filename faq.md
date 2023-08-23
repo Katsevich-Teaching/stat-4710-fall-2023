@@ -63,6 +63,14 @@ nav_order: 8
   <p>Yes, you may. Please see the <a href="https://apps.wharton.upenn.edu/syllabi/202330/STAT4710401/">Syllabus</a> and the <a href="https://katsevich-teaching.github.io/stat-4710-fall-2023/resources/ai/">instructor statement on AI</a> for more information.</p>
 </details>
 
+<details>
+  <summary> 
+  Are the readings listed under "Before class" on the course homepage optional? Will it be ok if I just listen in class?  
+  </summary>
+  <p>The readings are highly recommended. Especially in the first unit of the course, the learning curve for R programming will be steep and we will not be able to cover everything in class. All of the content in the readings is fair game for homeworks, quizzes, and exams.</p>
+</details>
+
+
 <h2>Quizzes and Exams</h2>
 
 <details>
