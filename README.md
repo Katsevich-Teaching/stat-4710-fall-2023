@@ -27,7 +27,7 @@ Tue 10/10 | 3. Regression-based methods | Ridge regression | ISLR Ch. 6.2.1, 6.2
 Thu 10/12 | (Fall break) | (Fall break) | (Fall break) | (Fall break) | (Fall break)
 Tue 10/17 | 3. Regression-based methods | Lasso regression | ISLR Ch. 6.2.2 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508336)
 Thu 10/19 | 3. Regression-based methods | Unit 3 Review | To prepare: Review quiz practice, [last year's Quiz 3](https://canvas.upenn.edu/courses/1741618/assignments/11508134) |  | Quiz 3 in class
-Fri 10/20 | -- | Exam 1 review session (time and location TBD) | -- | -- | --
+Fri 10/20 | -- | Exam 1 review session 5:15-6:45pm (location TBD) | -- | -- | --
 Tue 10/24 | -- | Exam 1 | To prepare: Review quiz practice, quizzes 1-3 from this year and last | | Exam 1 in class
 Thu 10/26 | 4. Tree-based methods | Growing decision trees | ISLR pp. 327-331, 335-338 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508347); Homework 3 due at 12pm
 Tue 10/31 | 4. Tree-based methods | Tree pruning and bagging | ISLR pp. 331-334, 338-341 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508357)
@@ -40,6 +40,6 @@ Tue 11/21 | 5. Deep learning | Deep learning for image processing | ISLR Ch. 10.
 Thu 11/23 | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break)
 Tue 11/28 | 5. Deep learning | Deep learning for text processing | ISLR Ch. 10.4-10.5 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508364)
 Thu 11/30 | 5. Deep learning | Unit 5 Review | To prepare: Review quiz practice, [last year's Quiz 5](https://canvas.upenn.edu/courses/1741618/assignments/11508137) |  | Quiz 5 in class 
-Mon 12/4 | -- | Exam 2 review session (time and location TBD) | -- | -- | --
+Mon 12/4 | -- | Exam 2 review session 5:15-6:45pm (location TBD) | -- | -- | --
 Tue 12/5 | -- | Course wrap-up | -- | Course wrap-up | Homework 5 due at 12pm
 Thu 12/7 | -- | Exam 2 | To prepare: Review quiz practice, Exam 1, all quizzes from this year and last | | Exam 2 in class
