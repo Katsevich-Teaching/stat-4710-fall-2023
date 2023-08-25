@@ -20,7 +20,7 @@
     <p>{{ page.info | markdownify | strip_html }}</p>
     {% endif %}
     {% if page.office-hours %}
-    <p>Office Hours: {{ page.office-hours | markdownify | lstrip }}</p>
+    <p>Office Hours: {{ page.office-hours }}</p>
     {% endif %}
     {{ content }}
   </div>
