@@ -137,3 +137,12 @@ nav_order: 8
   </summary>
   <p>Students joining the class late are responsible for catching up. For this reason, no extra accommodations will be provided. However, you do have a total of three free late days for submitting homework and your lowest quiz score will be dropped.</p>
 </details>
+
+<h2>Course enrollment</h2>
+
+<details>
+  <summary> 
+  I am missing some of the statistical prerequisites. Would you recommend I still take the class?
+  </summary>
+  <p> Ultimately, the decision of whether to stay in this class is up to you. Here, I will provide some suggestions. If you are missing some of the statistical prerequisites, then you will begin the class at a disadvantage compared to most of your classmates. If you are able and willing to put in the extra time to make up for this difference, then you may want to stay in the class. If your plate is already full with other responsibilities, then you may want to drop the class. In order to make a more informed opinion, I recommend you read through Chapters 3, 4.3, 6.2, 6.4, and 7.1-7.4 of <a href="https://hastie.su.domains/ISLR2/ISLRv2_website.pdf">ISLR</a>, and try some of the corresponding exercises. Chapter 3 is some of the material I will expect you to know already, and the other chapters include material we will cover in this class.</p>
+</details>
