@@ -131,13 +131,6 @@ nav_order: 8
   <p>Your three free late days are intended to offset such circumstances. Once you use these free late days, each day late will come with a 10-point late penalty. Please see the <a href="https://apps.wharton.upenn.edu/syllabi/202330/STAT4710401/">Syllabus</a> for more details on the late policy.</p>
 </details>
 
-<details>
-  <summary> 
-  I joined the class late. May I be excused from the first quiz and/or homework?
-  </summary>
-  <p>Students joining the class late are responsible for catching up. For this reason, no extra accommodations will be provided. However, you do have a total of three free late days for submitting homework and your lowest quiz score will be dropped.</p>
-</details>
-
 <h2>Course enrollment</h2>
 
 <details>
