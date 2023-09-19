@@ -21,7 +21,7 @@ Tue 9/19 | 2. Tuning predictive models | Bias-variance trade-off | ISLR pp. 30-3
 Thu 9/21 | 2. Tuning predictive models | Cross-validation | ISLR Ch. 5.1 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508495)
 Tue 9/26 | 2. Tuning predictive models | Classification | ISLR pp. 129-132 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508497)
 Thu 9/28 | 2. Tuning predictive models | Unit 2 Review | To prepare: Review quiz practice, [last year's Quiz 2](https://canvas.upenn.edu/courses/1741618/assignments/11508131) |  | Quiz 2 in class
-Tue 10/3 | 3. Regression-based methods | Logistic regression | ISLR Ch. 4.3 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508314); Homework 2 due at 9pm
+Tue 10/3 | 3. Regression-based methods | Logistic regression | ISLR Ch. 4.3 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508314); Homework 2 due at 9pm ([Posit Cloud](https://posit.cloud/spaces/402684/content/6563769); [PDF](https://katsevich-teaching.github.io/stat-4710-fall-2023/assets/course-materials/unit-2/homework-2.pdf))
 Thu 10/5 | 3. Regression-based methods | Regression in high dimensions | ISLR Ch. 6.4 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508318)
 Tue 10/10 | 3. Regression-based methods | Ridge regression | ISLR Ch. 6.2.1, 6.2.3 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508325)
 Thu 10/12 | (Fall break) | (Fall break) | (Fall break) | (Fall break) | (Fall break)
