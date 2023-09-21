@@ -16,3 +16,4 @@ nav_order: 7
 - [R cheatsheets](https://posit.cloud/learn/cheat-sheets): Quick references for R programming
 - [R tutorials](https://posit.cloud/learn/primers): Interactive, step by step tutorials to help you learn R
 - [AI tools](https://katsevich-teaching.github.io/stat-4710-fall-2023/resources/ai/): Instructor statement on AI tools and suggestions for which tools to use
+- [stat471](https://github.com/Katsevich-Teaching/stat471): R package designed for this class (preinstalled on Posit Cloud).
