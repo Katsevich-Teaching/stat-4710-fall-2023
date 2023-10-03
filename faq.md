@@ -49,6 +49,7 @@ nav_order: 8
   </summary>
   <ul>
     <li>Avoid using underscores or other special characters in chunk headers or figure/table captions.</li>
+    <li>Put a blank line between each code chunk and the subsequent text, especially for code chunks containing figures.</li>
     <li>You might not have loaded all necessary R packages.</li>
     <li>Your R code may have bugs. Usually the error message will point you to a line number where the code broke. Debug your code by stepping through it line-by-line interactively before compiling your report.</li>
     <li>Try asking Google or ChatGPT for help.</li>
