@@ -29,7 +29,7 @@ Tue 10/17 | 3. Regression-based methods | Lasso regression | ISLR Ch. 6.2.2 |  |
 Thu 10/19 | 3. Regression-based methods | Unit 3 Review | To prepare: Review quiz practice, [last year's Quiz 3](https://canvas.upenn.edu/courses/1741618/assignments/11508134) |  | Quiz 3 in class
 Fri 10/20 | -- | Exam 1 review session 5:15-6:45pm (location TBD) | -- | -- | --
 Tue 10/24 | -- | Exam 1 | To prepare: Review quiz practice, quizzes 1-3 from this year and last | | Exam 1 in class
-Thu 10/26 | 4. Tree-based methods | Growing decision trees | ISLR pp. 327-331, 335-338 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508347); Homework 3 due at noon
+Thu 10/26 | 4. Tree-based methods | Growing decision trees | ISLR pp. 327-331, 335-338 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508347); Homework 3 due at noon ([Posit Cloud](https://posit.cloud/spaces/402684/content/6735234), [PDF](https://katsevich-teaching.github.io/stat-4710-fall-2023/assets/course-materials/unit-3/homework-3.pdf))
 Tue 10/31 | 4. Tree-based methods | Tree pruning and bagging | ISLR pp. 331-334, 338-341 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508357)
 Thu 11/2 | 4. Tree-based methods | Random forests | ISLR pp. 342-345 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508358)
 Tue 11/7 | 4. Tree-based methods | Boosting | Read ISLR Ch. 8.2.3 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508359)
