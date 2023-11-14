@@ -41,5 +41,6 @@ Thu 11/23 | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break) |
 Tue 11/28 | 5. Deep learning | Deep learning for text processing | ISLR Ch. 10.4-10.5 |  | [Quiz Practice](https://canvas.upenn.edu/courses/1741618/assignments/11508364)
 Thu 11/30 | 5. Deep learning | Unit 5 Review | To prepare: Review quiz practice, [last year's Quiz 5](https://canvas.upenn.edu/courses/1741618/assignments/11508137) |  | Quiz 5 in class 
 Mon 12/4 | -- | Exam 2 review session 5:15-6:45pm (location TBD) | -- | -- | --
-Tue 12/5 | -- | Course wrap-up | -- | Course wrap-up | Homework 5 due at 9pm ([Posit Cloud](https://posit.cloud/spaces/402684/content/7045493), [PDF](https://katsevich-teaching.github.io/stat-4710-fall-2023/assets/course-materials/unit-5/homework-5.pdf))
+Tue 12/5 | -- | Course wrap-up | -- | Course wrap-up | 
 Thu 12/7 | -- | Exam 2 | To prepare: Review quiz practice, Exam 1, all quizzes from this year and last | | Exam 2 in class
+Mon 12/11 | -- | -- | -- | -- | Homework 5 due at 9pm ([Posit Cloud](https://posit.cloud/spaces/402684/content/7045493), [PDF](https://katsevich-teaching.github.io/stat-4710-fall-2023/assets/course-materials/unit-5/homework-5.pdf))
